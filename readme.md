@@ -6,4 +6,4 @@ Screenshot
 ![Screenshot](/images/image.png)
 
 Screnshoot mobile
-![Screenshot](/images/image-mobile.png.png)
+![Screenshot](/images/image-mobile.png)
